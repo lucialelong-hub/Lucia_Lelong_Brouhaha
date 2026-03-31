@@ -43,7 +43,7 @@ body {
 
 @font-face {
   font-family: "reg"; /*choix du mot clef */
-  src: url("../0xA000/0xA000-Mono-Bold.ttf");  /*attention il faut bien ajouter '../' si besoin */
+  src: url("0xA000/0xA000-Mono-Bold.ttf");  /*attention il faut bien ajouter '../' si besoin */
 }
 
 
